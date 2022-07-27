@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Roboto';
+}
+
+div {
+  box-sizing: border-box;
+}
+
+:root {
+  --main-text-color: #073763
+}
